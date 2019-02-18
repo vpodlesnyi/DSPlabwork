@@ -140,6 +140,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ITJYUFSA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for StudentForce\Design Rule Check - StudentForce.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
