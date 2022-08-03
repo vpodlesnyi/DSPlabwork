@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: D:\DSPlabwork\PCB\StudentForce.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_GND|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_AGND_D|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_AGND_M|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_AGND_S|Scope=Board|Minimum=11.81

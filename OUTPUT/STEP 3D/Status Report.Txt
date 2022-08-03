@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:47:33 PM On 8/3/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [StudentForce.PcbDoc]
+   Generated File[StudentForce.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:47:40 PM On 8/3/2022

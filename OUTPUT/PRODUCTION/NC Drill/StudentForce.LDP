@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\DSPlabwork\PCB\StudentForce.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=studentforce.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=studentforce-rectholes.txt|DrillLayers=gtl,gbl
