@@ -1,11 +1,11 @@
 # DSPlabwork
-Печатная плата для проведения занятий по Цифровой Обработке Сигналов на кафедре Мехатроники и Робототехники.
+The PCB for Digital Signal Processing classes at the Department of Mechatronics and Robotics.
 
-Функционал изделия:
-- обработка сигнала с тензометрического датчика силы;
-- прием сигнала с электретного микрофона;
-- снятие показаний с датчиков через интерфейс I2C;
-- обработка сигналов микроконтроллером ATMega328;
-- генерация звука на динамик.
+Technical specifications:
+- signal processing from a strain gauge force sensor;
+- signal processing from an electret microphone;
+- I2C;
+- sound generation;
+- main MCU ATMega328.
 
 ![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/DSP.PNG)
