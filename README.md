@@ -8,4 +8,4 @@ Technical specifications:
 - sound generation;
 - main MCU ATMega328.
 
-![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/DSP.PNG)
+![demo image](https://github.com/VasiliyPodlesniy/PhotoForRepositories/blob/master/tensSensmin.gif)
